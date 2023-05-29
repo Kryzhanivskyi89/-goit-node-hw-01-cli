@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index",
+    "test": "test"
+  },
+  "dependencies": {
+    "nanoid": "^4.0.2",
+    "nodemon": "^2.0.22"
+  },
+  "name": "goit-node-hw-01-cli",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kryzhanivskyi89/goit-node-hw-01-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kryzhanivskyi89/goit-node-hw-01-cli/issues"
+  },
+  "homepage": "https://github.com/Kryzhanivskyi89/goit-node-hw-01-cli#readme"
+}
